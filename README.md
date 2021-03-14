@@ -1,2 +1,2 @@
-# Maxgit
-This is for testing Git
+# Jupyter Notebooks
+Machine Learning Models
